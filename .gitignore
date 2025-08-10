@@ -1,0 +1,14 @@
+__pycache__
+.ruff_cache
+*.ipynb
+.env
+*.egg-info
+datasets
+wandb
+logs
+jobs
+.vscode
+*.log
+profile.stats
+output
+configs/
