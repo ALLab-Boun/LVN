@@ -1,6 +1,6 @@
 # Local Virtual Nodes for Alleviating Over-Squashing in GNNs
 
-This is the official repository of the paper ["Local Virtual Nodes for Alleviating Over-Squashing in Graph Neural Networks"](https://github.com/ALLab-Boun/LVN).
+This is the official repository of the paper ["Local Virtual Nodes for Alleviating Over-Squashing in Graph Neural Networks"](https://arxiv.org/abs/2508.20597).
 
 ## Setup
 
