@@ -1,0 +1,17 @@
+[project]
+name = "lvn"
+version = "1.1.0"
+description = "Local Virtual Nodes for alleviating over-squashing in graph neural networks"
+requires-python = ">=3.10"
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+train = "lvn.scripts.train:main"
+reproduce = "lvn.scripts.reproduce:main"
+
+[tool.setuptools.packages.find]
+include = ["lvn*"]

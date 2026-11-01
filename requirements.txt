@@ -1,0 +1,9 @@
+# Versions used for the results in the paper (Python 3.10).
+torch==2.3.1
+torch_geometric==2.3.0
+networkx==3.3
+numpy==2.0.0
+scipy==1.14.0
+tqdm==4.66.4
+# tests
+pytest
